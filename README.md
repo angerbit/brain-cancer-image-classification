@@ -1,1 +1,1 @@
-# brain-cancer-image-classification
+# Brain Cancer Image Classification Project
